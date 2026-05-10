@@ -450,7 +450,7 @@ The **Font Awesome 5** icons are licensed under [CC BY 4.0](https://creativecomm
 ## 🙋 Author
 
 **Alilo Alaedine**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@BoutefahaAlaeddine](https://github.com/BoutefahaAlaeddine)
 
 ---
 
