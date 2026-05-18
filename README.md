@@ -1,6 +1,6 @@
 # Kasper — Creative Agency Website Template
 
-> A rich, multi-section **single-page agency website** built with pure **HTML5** and **CSS3** — no JavaScript, no frameworks, no build tools. Features a full-viewport hero with teal overlay panel, CSS Grid portfolio gallery with hover zoom + caption slide-up, autoplay background video, animated skill progress bars with `data-progress` tooltips, 4-tier pricing cards, newsletter subscription form, and a CSS-only fixed scroll-to-top arrow.
+🌐 Websites. A rich, multi-section **single-page agency website** built with pure **HTML5** and **CSS3** — no JavaScript, no frameworks, no build tools. Features a full-viewport hero with teal overlay panel, CSS Grid portfolio gallery with hover zoom + caption slide-up, autoplay background video, animated skill progress bars with `data-progress` tooltips, 4-tier pricing cards, newsletter subscription form, and a CSS-only fixed scroll-to-top arrow.
 
 ---
 
